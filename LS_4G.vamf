@@ -6,14 +6,14 @@
     "topology": [
         {
             "name": "Topology1",
-            "addRepositoryNamePrefix": true,
+            "addRepositoryNamePrefix": fakse,
             "actionTitle": "Reserve",
             "description": "Topology for Landslide 4G Core testing from Activity Catalog",
             "reservationDuration": "60",
             "automation": [
                 {
                     "testPath": "automation-assets/APT_Development/test_cases/Router_SW_Version_Check.fftc",
-                    "addRepositoryNamePrefix": true,
+                    "addRepositoryNamePrefix": false,
                     "description": "Run with Options is enabled",
                     "allowToRunWithOptions": true
                 }
