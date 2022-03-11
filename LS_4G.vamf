@@ -6,7 +6,7 @@
     "topology": [
         {
             "name": "Topology1",
-            "addRepositoryNamePrefix": fakse,
+            "addRepositoryNamePrefix": false,
             "actionTitle": "Reserve",
             "description": "Topology for Landslide 4G Core testing from Activity Catalog",
             "reservationDuration": "60",
