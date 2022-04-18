@@ -13,7 +13,7 @@ Look into the topology to gather more details on nodes being emulated & likewise
 * Observe the test case reported statistics to conclude on the test case behaviour and accodingly the criteria's defined to determine pass/fail criteria for a specific test case. 
 
 ## Topology for testing the scenario
-![Topology](ls_5GCConsfunc.png=1000x750)
+![Topology](ls_5GCConsfunc.png=1100x700)
 
 ## Video Tutorial:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6-Gg2uXb39k/0.jpg)](https://www.youtube.com/watch?v=6-Gg2uXb39k)
