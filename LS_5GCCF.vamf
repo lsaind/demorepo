@@ -1,0 +1,23 @@
+{
+    "name": "4G Landslide demo",
+    "shortDescription": "Landslide demo for 4G Core",
+    "icon": "customActivityManual.svg",
+    "descriptionMarkdown": "LS_4G.md",
+    "topology": [
+        {
+            "name": "Topology1",
+            "addRepositoryNamePrefix": false,
+            "actionTitle": "Reserve",
+            "description": "Topology for Landslide 4G Core testing from Activity Catalog",
+            "reservationDuration": "60",
+            "automation": [
+                {
+                    "testPath": "automation-assets/APT_Development/test_cases/Router_SW_Version_Check.fftc",
+                    "addRepositoryNamePrefix": false,
+                    "description": "Run with Options is enabled",
+                    "allowToRunWithOptions": true
+                }
+            ]
+        }
+    ]
+}
