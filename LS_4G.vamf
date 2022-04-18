@@ -1,7 +1,7 @@
 {
     "name": "4G Landslide demo",
     "shortDescription": "Landslide demo for 4G Core",
-    "icon": "customActivityManual.svg",
+    "icon": "Spirent_logo.jpg",
     "descriptionMarkdown": "LS_4G.md",
     "topology": [
         {
