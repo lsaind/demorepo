@@ -1,0 +1,53 @@
+{
+    "name": "5G Consumer Function",
+    "shortDescription": "Landslide demo for 5G Consumer Function",
+    "icon": "customActivityManual.svg",
+    "descriptionMarkdown": "LS_5GConsfunc.md",
+    "topology": [
+        {
+            "name": "LS_5G-ConsFunc",
+            "addRepositoryNamePrefix": false,
+            "actionTitle": "Reserve",
+            "description": "Topology for Landslide 5G Consumer Function demo from Activity Catalog",
+            "reservationDuration": "60",
+            "automation": [
+                {
+                    "testPath": "automation-assets/main/5GCConsFunc/Cons5GCFunc/test_cases/TC-1-12_Initial-Registration_5G-GUTI_same_AMF.fftc",
+                    "addRepositoryNamePrefix": false,
+                    "description": "Run with Options is enabled",
+                    "allowToRunWithOptions": true
+                }
+                {
+                    "testPath": "automation-assets/main/5GCConsFunc/Cons5GCFunc/test_cases/TC-1-23_UE-Payload-Triggered-Service-Request-CM-IDLE.fftc",
+                    "addRepositoryNamePrefix": false,
+                    "description": "Run with Options is enabled",
+                    "allowToRunWithOptions": true
+                }
+                {
+                    "testPath": "automation-assets/main/5GCConsFunc/Cons5GCFunc/test_cases/TC-1-24_SMF-Triggered-service-request_CM-IDLE_paging-accept_DDN.fftc",
+                    "addRepositoryNamePrefix": false,
+                    "description": "Run with Options is enabled",
+                    "allowToRunWithOptions": true
+                }
+                {
+                    "testPath": "automation-assets/main/5GCConsFunc/Cons5GCFunc/test_cases/TC-1-36_UE-Initiated-PDU-Session-Establishment-without-S-NSSAI.fftc",
+                    "addRepositoryNamePrefix": false,
+                    "description": "Run with Options is enabled",
+                    "allowToRunWithOptions": true
+                }
+                {
+                    "testPath": "automation-assets/main/5GCConsFunc/Cons5GCFunc/test_cases/TC-1-43_PDU-Session-Establishment-withType-IPV4_Standardized-5QI.fftc",
+                    "addRepositoryNamePrefix": false,
+                    "description": "Run with Options is enabled",
+                    "allowToRunWithOptions": true
+                }
+                {
+                    "testPath": "automation-assets/main/5GCConsFunc/Cons5GCFunc/test_cases/TC-1-44_PDU_Session-Establishment_with_Type_IPV4V6.fftc",
+                    "addRepositoryNamePrefix": false,
+                    "description": "Run with Options is enabled",
+                    "allowToRunWithOptions": true
+                }
+            ]
+        }
+    ]
+}

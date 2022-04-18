@@ -1,4 +1,3 @@
-# Velocity reservation
 This activity allows users to easily reserve a simple topology:
 * IND PC
 * IND Server
