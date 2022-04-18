@@ -1,4 +1,4 @@
-![Image from file](Spirent_logo_full.png=150x200)
+![Image from file](Spirent_logo_full.png=150x500)
 
 ## Consumer 5GC Function introduction
 This is a collection of test cases in Velocity needed to test a 5GC. 
