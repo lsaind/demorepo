@@ -8,7 +8,7 @@ A sample list of few test cases have been chosed for demonstrative purposes.
 Look into the topology to gather more details on nodes being emulated & likewise tested.
 
 ## Access to the Solution presentation
-![PowerPoint][PPT]
+[PowerPoint][PPT]
 [PPT]: <https://spirent1-my.sharepoint.com/:p:/g/personal/gokul_ragupathy_spirent_com/Ebqk-nz5WD5EolxQlNDmKUMBrBZz50oNkediqfoY5OkGuQ?e=pJcEmY>
 
 ## Video Tutorial:
