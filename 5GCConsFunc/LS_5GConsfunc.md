@@ -1,11 +1,11 @@
 ![Image from file](5GCConsFunc/Spirent_logo.png)
 
-# Consumer 5GC Function introduction
+## Consumer 5GC Function introduction
 This is a collection of test cases in Velocity needed to test a 5GC. In this library, a 5GC gets tested for features, functions & adherence to specifications of 3GPP.
 A sample list of few test cases have been chosed for demonstrative purposes. 
 Look into the topology to gather more details on nodes being emulated & likewise tested.
 
-# Test Steps
+## Test Steps
 1) Login to Landslide
 2) Refer to the topology and pick the respective test case. 
 3) Determine the network connections and map the test cases to their respective ports such that every emulated network function and the node that is being tested is reachable. 
