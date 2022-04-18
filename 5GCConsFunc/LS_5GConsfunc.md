@@ -1,5 +1,3 @@
-![Image from file](5GCConsFunc/Spirent_logo.png)
-
 # Consumer 5GC Function introduction
 This is a collection of test cases in Velocity needed to test a 5GC. In this library, a 5GC gets tested for features, functions & adherence to specifications of 3GPP.
 A sample list of few test cases have been chosed for demonstrative purposes. 
