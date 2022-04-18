@@ -1,7 +1,7 @@
 {
     "name": "5G Consumer Function",
     "shortDescription": "Landslide demo for 5G Consumer Function",
-    "icon": "Spirent_logo.png",
+    "icon": "Spirent_logo.jpg",
     "descriptionMarkdown": "LS_5GCCF.md",
     "topology": [
         {
