@@ -12,7 +12,7 @@
             "reservationDuration": "60",
             "automation": [
                 {
-                    "testPath": "automation-assets/main/5GCConsFunc/Cons5GCFunc/test_cases/TC-1-12_Initial-Registration_5G-GUTI_same_AMF.fftc",
+                    "testPath": "automation-assets/main%2F5GCConsFunc%2FCons5GCFunc%2Ftest_cases%2FTC-1-12_Initial-Registration_5G-GUTI_same_AMF.fftc",
                     "addRepositoryNamePrefix": false,
                     "description": "Run with Options is enabled",
                     "allowToRunWithOptions": true
