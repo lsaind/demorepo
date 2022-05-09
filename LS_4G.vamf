@@ -1,23 +1,15 @@
 {
-    "name": "4G Landslide demo",
-    "shortDescription": "Landslide demo for 4G Core",
+    "name": "EPC Function",
+    "shortDescription": "Landslide demo for EPC Function",
     "icon": "Spirent_logo.jpg",
-    "descriptionMarkdown": "LS_4G.md",
+    "descriptionMarkdown": "LS_EPCFunc.md",
     "topology": [
         {
-            "name": "Topology1",
+            "name": "LS_EPCFunc",
             "addRepositoryNamePrefix": false,
             "actionTitle": "Reserve",
-            "description": "Topology for Landslide 4G Core testing from Activity Catalog",
+            "description": "Topology for Landslide EPC Function demo from Activity Catalog",
             "reservationDuration": "60",
-            "automation": [
-                {
-                    "testPath": "automation-assets/APT_Development/test_cases/Router_SW_Version_Check.fftc",
-                    "addRepositoryNamePrefix": false,
-                    "description": "Run with Options is enabled",
-                    "allowToRunWithOptions": true
-                }
-            ]
         }
     ]
 }
