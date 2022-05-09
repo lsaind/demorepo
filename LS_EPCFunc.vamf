@@ -1,0 +1,15 @@
+{
+    "name": "EPC Function",
+    "shortDescription": "Landslide demo for EPC Function",
+    "icon": "Spirent_logo.jpg",
+    "descriptionMarkdown": "LS_EPCFunc.md",
+    "topology": [
+        {
+            "name": "LS_EPCFunc",
+            "addRepositoryNamePrefix": false,
+            "actionTitle": "Reserve",
+            "description": "Topology for Landslide EPC Function demo from Activity Catalog",
+            "reservationDuration": "60",
+        }
+    ]
+}
