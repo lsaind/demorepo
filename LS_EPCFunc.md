@@ -1,4 +1,4 @@
-![Image from file](Spirent_logo_full.png=500x150)
+![Image from file](Spirent_logo_full_1.png=500x150)
 
 ## Introduction
 This is a collection of test cases in Velocity needed to test a 5GC. 
@@ -22,4 +22,4 @@ Look into the topology to gather more details on nodes being emulated & likewise
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6-Gg2uXb39k/0.jpg)](https://www.youtube.com/watch?v=6-Gg2uXb39k)
 
 ## Topology for testing the scenario
-![Topology](ls_5GCConsfunc.png=900x450)
+![Topology](ls_EPCFunc.png=900x450)

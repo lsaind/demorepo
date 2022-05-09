@@ -1,7 +1,7 @@
 {
     "name": "EPC Function",
     "shortDescription": "Landslide demo for EPC Function",
-    "icon": "Spirent_logo.jpg",
+    "icon": "Spirent_logo_1.jpg",
     "descriptionMarkdown": "LS_EPCFunc.md",
     "topology": [
         {
