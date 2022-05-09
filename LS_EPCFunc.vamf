@@ -9,7 +9,7 @@
             "addRepositoryNamePrefix": false,
             "actionTitle": "Reserve",
             "description": "Topology for Landslide EPC Function demo from Activity Catalog",
-            "reservationDuration": "60",
+            "reservationDuration": "60"
         }
     ]
 }
