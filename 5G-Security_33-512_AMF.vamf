@@ -1,0 +1,23 @@
+{
+    "name": "5G Security 33.512 tests",
+    "shortDescription": "Landslide demo for 5G Security 3GPP 33.512 compliance",
+    "icon": "Spirent_logo_1.jpg",
+    "descriptionMarkdown": "5G-Secuirty_33-512_AMF.md",
+    "topology": [
+        {
+            "name": "5G-Security-Tests",
+            "addRepositoryNamePrefix": false,
+            "actionTitle": "Reserve",
+            "description": "Topology for 5G Security 3GPP 33.512 compliance",
+            "reservationDuration": "30"
+            "automation": [
+                {
+                    "testPath": "main/landslide_security/test_cases/TC_BIDDING_DOWN_XN_AMF.fftc",
+                    "addRepositoryNamePrefix": false,
+                    "description": "TC_BIDDING_DOWN_XN_AMF",
+                    "allowToRunWithOptions": false
+                }
+            ]
+        }
+    ]
+}
