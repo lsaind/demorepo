@@ -1,4 +1,4 @@
-![Image from file](Spirent_logo_full_1.png=300x80)
+![Image from file](Spirent_logo_full_1.png=300x90)
 
 ## Introduction
 This is a sample automated test suite for testing 5G Security test cases complying 3GPP 33.512. 

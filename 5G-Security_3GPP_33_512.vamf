@@ -8,8 +8,8 @@
             "name": "5G-Security-Tests",
             "addRepositoryNamePrefix": false,
             "actionTitle": "Reserve",
-            "description": "Topology for Landslide EPC Function demo from Activity Catalog",
-            "reservationDuration": "60"
+            "description": "Topology for Landslide for 5G Security 3GPP 33.512 AMF node",
+            "reservationDuration": "30"
         }
     ]
 }
