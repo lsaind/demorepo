@@ -15,7 +15,7 @@ Look into the topology to gather more details on nodes being emulated & likewise
 * Observe the test case reported statistics to conclude on the test case behaviour and accodingly the criteria's defined to determine pass/fail criteria for a specific test case. 
 
 ## Reference to 3GPP Standards
-[33.512][link]
+[33-512][link]
 [link]: <https://www.etsi.org/deliver/etsi_ts/133500_133599/133512/16.03.00_60/ts_133512v160300p.pdf>
 
 ## Test case automated with iTest & Velocity
