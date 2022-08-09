@@ -10,14 +10,6 @@
             "actionTitle": "Reserve",
             "description": "Topology for 5G Security 3GPP 33.512 compliance",
             "reservationDuration": "30"
-            "automation": [
-                {
-                    "testPath": "main/landslide_security/test_cases/TC_BIDDING_DOWN_XN_AMF.fftc",
-                    "addRepositoryNamePrefix": false,
-                    "description": "TC_BIDDING_DOWN_XN_AMF",
-                    "allowToRunWithOptions": false
-                }
-            ]
         }
     ]
 }
