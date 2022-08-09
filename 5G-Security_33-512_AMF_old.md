@@ -18,6 +18,15 @@ Look into the topology to gather more details on nodes being emulated & likewise
 [33-512][link]
 [link]: <https://www.etsi.org/deliver/etsi_ts/133500_133599/133512/16.03.00_60/ts_133512v160300p.pdf>
 
+## Test case automated with iTest & Velocity
+* 4.2.2.3.1 Replay protection of NAS signalling messages -> TC_NAS_REPLAY_AMF
+* 4.2.2.3.2 NAS NULL integrity protection -> TC_NAS_NULL_INT_AMF
+* 4.2.2.4.1 Bidding down prevention in Xn-handover -> TC_BIDDING_DOWN_XN_AMF
+* 4.2.2.6.1 Invalid or unacceptable UE security capabilities handling -> TC_UE_SEC_CAP_HANDLING_AMF
+* 4.2.2.3.3 NAS integrity algorithm selection and use  -> TC_NAS_INT_SELECTION_USE_AMF
+* 4.2.2.1.2 RES* verification failure handling -> TC_RES*_VERIFICATION_FAILURE
+* 4.2.2.1.1 Synchronization failure handling -> TC_SYNC_FAIL_SEAF_AMF
+
 ## Access to the Solution presentation
 [PowerPoint][PPT]
 [PPT]: <https://spirent1-my.sharepoint.com/:p:/g/personal/gokul_ragupathy_spirent_com/Ebqk-nz5WD5EolxQlNDmKUMBrBZz50oNkediqfoY5OkGuQ?e=pJcEmY>
