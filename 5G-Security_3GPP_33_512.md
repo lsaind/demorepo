@@ -35,4 +35,4 @@ Look into the topology to gather more details on nodes being emulated & likewise
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6-Gg2uXb39k/0.jpg)](https://www.youtube.com/watch?v=6-Gg2uXb39k)
 
 ## Topology for testing the scenario
-![Topology](ls_EPCFunc.png=900x400)
+![Topology](5G-Security_33-512_AMF.png=900x400)
